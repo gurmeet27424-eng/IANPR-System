@@ -1,7 +1,7 @@
 # IANPR-System
 IANPR system with stollen vehicle detection
 --------------------------
-libraries to be unstalled command
+libraries to be installed command
 --------------------------
     !pip install ultralytics easyocr gradio opencv-python-headless numpy pillow mysql-connector-python
 ---------------------
